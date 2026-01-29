@@ -8,7 +8,7 @@
 - This warehouse contains a lot of code in the fields of remote sensing and GIS, many of which are my personal projects or coursework during my study. The most should be the codes for me to participate in competitions, graduation thesis and college student innovation and entrepreneurship projects.
 - Now I open source these things and use them as public resources for people in need.
 
-## 1.2 Introducted
+### 1.2 Introducted
 
 - I first came into contact with GEE because of my *senior brother and senior*: **Jack Sun,** who was my guide in learning GEE. There are many things he taught me how to do for the first time, and I am very grateful to him.
 - I'm sharing this because I feel that GEE has fulfilled its mission for me, and I hope that my code can provide some help to those in need.
